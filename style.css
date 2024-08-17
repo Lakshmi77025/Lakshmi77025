@@ -38,11 +38,11 @@ nav img{
 }
 div h1{
     display: flex: ;
-    margin-left::after:3opx;
+    margin-left::after:3px;
 }
 .row{
     display:flex;
-    color:aliceblue;
+    color:blue;
     font-size: 20px;
     margin-top: 2%;
     margin-bottom: 2%;
@@ -69,11 +69,11 @@ box-shadow: 5px 5px 10px white;
    
 }
 #skills{
-    background-image: url(images/homeimg.jpg);
+    background-image: url("homeimg.jpg");
     background-size: cover;
     height:70vh;
     margin-top: 1px;
-    color:aliceblue;
+    color:blue;
     
     border-color: aqua;
 }
@@ -110,7 +110,7 @@ ul li{
     margin-top: 20px;
 }
 #contact{
-    background-image: url(images/homeimg.jpg);
+    background-image: url("homeimg.jpg");
     background-size:cover;
     height:100vh;
     margin-top: 2px;
